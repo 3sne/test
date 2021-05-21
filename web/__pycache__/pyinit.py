@@ -1,0 +1,1 @@
+print('pyinit.py')
